@@ -32,6 +32,12 @@ My name is **WangDaoshuai (DogerW)**
 **Programming languages I have used**:
 - 😄 C/C++、C#、Python
 
+**Programming frameworks I have used**:
+- ⚡ Computer Vision based：OpenCV、Halcon
+- ⚡ Machine Learning based：pytorch
+- ⚡ Development Framework based：WPF、UE4
+
+
 <img align="center" src="https://hits.b3log.org/elderjames/elderjames.svg" />
 
 
