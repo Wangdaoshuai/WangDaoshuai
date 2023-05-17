@@ -30,7 +30,7 @@ My name is **WangDaoshuai (DogerW)**
 - ✨ 中文简述：作为上海交通大学电院2023届毕业生，目前就职于上海某公司担任软件开发工程师，负责机器视觉算法与软件的开发。
 
 **Programming languages I have used**:
-- 😄 C/C++、C#、Python
+- 😄 C/C++、Golang、C#、Python
 
 **Programming frameworks I have used**:
 - ⚡ Computer Vision based：OpenCV、Halcon
