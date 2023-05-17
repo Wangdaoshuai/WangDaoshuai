@@ -46,3 +46,7 @@ My name is **WangDaoshuai (DogerW)**
 
 
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=WangDaoshuai&show_icons=true&theme=tokyonight)
+  <!-- 语言占比
+  ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WangDaoshuai&theme=dark&layout=compact)
+
+    -->
