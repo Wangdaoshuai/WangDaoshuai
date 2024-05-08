@@ -23,16 +23,17 @@ My name is **WangDaoshuai (DogerW)**
 
 - 👨‍💻 I’m a graduate of the 23rd Shanghai Jiaotong University School of Electronic Information and Electrical Engineering.
 - 🔭 I’m currently a software development engineer.
-- 🌱 I’m currently engaged in algorithm and software development related to machine vision.
+- 🌱 I’m currently engaged in algorithm and software development related to k8s.
 - 💕 I’m an open source enthusiast.
 
 
-- ✨ 中文简述：作为上海交通大学电院2023届毕业生，目前就职于上海某公司担任软件开发工程师，负责机器视觉算法与软件的开发。
+- ✨ 中文简述：作为上海交通大学电院2023届毕业生，曾就职于B站，目前就职于阿里巴巴，负责k8s资源调度相关的开发工作。
 
 **Programming languages I have used**:
 - 😄 C/C++、Golang、C#、Python
 
 **Programming frameworks I have used**:
+- ⚡ kubernetes
 - ⚡ Computer Vision based：OpenCV、Halcon
 - ⚡ Machine Learning based：pytorch
 - ⚡ Development Framework based：WPF、UE4
