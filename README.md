@@ -27,7 +27,9 @@ My name is **WangDaoshuai (DogerW)**
 - 💕 I’m an open source enthusiast.
 
 
-- ✨ 中文简述：作为上海交通大学电院2023届毕业生，曾就职于B站，目前就职于阿里巴巴，负责k8s资源调度相关的开发工作。
+- ✨ 中文简述：作为上海交通大学电院2023届毕业生，
+- 曾就职于B站，负责k8s云平台开发，
+- 目前就职于阿里巴巴，负责k8s资源调度相关的开发。
 
 **Programming languages I have used**:
 - 😄 C/C++、Golang、C#、Python
@@ -36,7 +38,7 @@ My name is **WangDaoshuai (DogerW)**
 - ⚡ kubernetes
 - ⚡ Computer Vision based：OpenCV、Halcon
 - ⚡ Machine Learning based：pytorch
-- ⚡ Development Framework based：WPF、UE4
+- ⚡ Development Framework based：WPF、UE4、Kratos
 
 
 <img align="center" src="https://hits.b3log.org/elderjames/elderjames.svg" />
