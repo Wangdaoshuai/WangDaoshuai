@@ -40,6 +40,8 @@ My name is **WangDaoshuai (DogerW)**
 - ⚡ Machine Learning based：pytorch
 - ⚡ Development Framework based：WPF、UE4、Kratos
 
+Email:1150618528@qq.com
+
 
 <img align="center" src="https://hits.b3log.org/elderjames/elderjames.svg" />
 
