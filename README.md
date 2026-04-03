@@ -29,15 +29,11 @@ My name is **WangDaoshuai (DogerW)**
 
 
 **Programming languages I have used**:
-- 😄 C/C++、Golang、C#、Python
+- 😄 C/C++、Golang、JAVA、Scala、Rust、C#、Python
 
-**Programming frameworks I have used**:
-- ⚡ kubernetes
-- ⚡ Computer Vision based：OpenCV、Halcon
-- ⚡ Machine Learning based：pytorch
-- ⚡ Development Framework based：WPF、UE4、Kratos
 
-Email:1150618528@qq.com
+
+Email:wangdaoshuai.wds@alibaba-inc.com     1150618528@qq.com
 
 
 <img align="center" src="https://hits.b3log.org/elderjames/elderjames.svg" />
